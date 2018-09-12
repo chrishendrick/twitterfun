@@ -1,6 +1,7 @@
 import json
 
 # Enter your keys/secrets as strings in the following fields
+# DONT PUT YOUR CREDS IN PLAINTEXT HERE - modify and run local
 credentials = {}  
 credentials['CONSUMER_KEY'] = ...  
 credentials['CONSUMER_SECRET'] = ...  
